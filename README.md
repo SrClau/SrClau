@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋
+
+- Learning JavaScript 
+
+• Dedications
+
+- PocketMine-MP (Software Minecraft Bedrock Edition)
+- VideoGames 
 
 <!--
 **SrClau/SrClau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
