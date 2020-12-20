@@ -1,6 +1,10 @@
 # Hi there 👋
 
-- Learning JavaScript 
+- 💤 Always Tired
+
+- 😩 I’m currently working on **Luxxury**
+- 📖 I’m currently learning Web Development
+- 💯 Fun fact: I always look for my own **solutions** / **definitions**
 
 • I Dedicate Myself To
 
