@@ -1,8 +1,8 @@
-# Hi there 👋
+# Hi there👋 I'm Clau
 
 - 💤 Always Tired
 
-- 😩 I’m currently working on **Luxxury**
+<!-- - 😩 I’m currently working on **Luxxury**-->
 - 📖 I’m currently learning Web Development
 - 💯 Fun fact: I always look for my own **solutions** / **definitions**
 
