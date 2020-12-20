@@ -2,7 +2,7 @@
 
 - Learning JavaScript 
 
-• Dedications
+• I Dedicate Myself To
 
 - PocketMine-MP (Software Minecraft Bedrock Edition)
 - VideoGames 
