@@ -1,4 +1,4 @@
-# Hi there👋 I'm Clau
+# Hi 👋 I'm Clau
 
 - 💤 Always Tired
 
