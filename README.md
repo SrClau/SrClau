@@ -2,7 +2,7 @@
 
 - 💤 Always Tired
 
-- 😩 I’m currently working on **NMC**
+- 😩 I’m currently working on **NoobyMC**
 - 📖 I’m currently learning Web Development
 - 💯 Fun fact: I always look for my own **solutions** / **definitions**
 
