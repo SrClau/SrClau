@@ -3,7 +3,6 @@
 - 💤 Always Tired
 
 - 😩 I’m currently working on **NoobyMC**
-- 📖 I’m currently learning Web Development
 - 💯 Fun fact: I always look for my own **solutions** / **definitions**
 
 • I Dedicate Myself To
@@ -30,4 +29,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📖 I’m currently learning Web Development
 -->
+
