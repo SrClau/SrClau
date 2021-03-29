@@ -13,8 +13,8 @@
 
 # My Jobs
 
-- [HCF]()
-- [DuelsPE]()
+- [HCF](https://github.com/TeamCF/HCF)
+- [DuelsPE](https://github.com/TeamCF/DuelsPE)
 
 
 <!--
