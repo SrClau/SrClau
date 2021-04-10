@@ -1,4 +1,4 @@
-# Hi 👋 I'm Clau
+# Hi I'm Clau👋
 
 - 💤 Always Tired
 
@@ -12,9 +12,14 @@
 
 # My Jobs
 
-- [HCF](https://github.com/TeamCF/HCF)
-- [DuelsPE](https://github.com/TeamCF/DuelsPE)
+- [HCF](https://github.com/SrClau/HCF)
+- [SkyWars](https://github.com/SrClau/NOPOR)
+- [LanguageAPI](https://github.com/SrClau)
+- [MinePE](https://github.com/SrClau/MinePECPP)
+- [SilentsShot](https://github.com/TEST/SilentsShotGame)
 
+## Progress
+- [ ] A
 
 <!--
 **SrClau/SrClau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,4 +36,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 📖 I’m currently learning Web Development
 -->
-
