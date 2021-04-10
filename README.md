@@ -14,7 +14,7 @@
 
 - [HCF](https://github.com/SrClau/HCF)
 - [SkyWars](https://github.com/SrClau/NOPOR)
-- [LanguageAPI](https://github.com/SrClau)
+- [LanguageAPI](https://github.com/SrClau/LanguageAPI)
 - [MinePE](https://github.com/SrClau/MinePECPP)
 - [SilentsShot](https://github.com/TEST/SilentsShotGame)
 
