@@ -1,4 +1,4 @@
-# Hi I'm Clau👋
+# Hi, I'm Clau👋
 
 - 💤 Always Tired
 
@@ -22,6 +22,7 @@
 - [ ] A
 
 <p alight="center">
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrClau)](https://github.com/SrClau/github-readme-stats)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srclau&layout=compact)](https://github.com/srclau/github-readme-stats)->
 </p>
 
