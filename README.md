@@ -16,7 +16,7 @@
 
 <h3 align="left">Social Networks</h3>
 <a href="twitter.com/SrClau4"><img src="images/twitter.png" /></a>
-<a href="twitter.com/SrClau4"><img src="images/Discord-Logo.png" /></a>
+<a href="twitter.com/SrClau4"><img src="images/Discord-Logo.png" width="50" height="50" /></a>
 <!-- - 💤 Always Tired
 
 - 😩 I’m currently working on **NoobyMC**
