@@ -13,7 +13,8 @@
 <br/>
 - Text from Test 
 </p>
-# Social Networks
+
+<h3 align="left">Social Networks</h3>
 <a href="twitter.com/SrClau4"><img src="images/twitter.png" /></a>
 <a href="twitter.com/SrClau4"><img src="images/discord.png" /></a>
 <!-- - 💤 Always Tired
