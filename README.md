@@ -1,9 +1,9 @@
 <h1 align="center">Hi👋, I'm Claudio</h1>
 <br />
 
-## Web Developer & Game Developer
+<h2 align="center">Web Developer & Game Developer</h2>
 
-<img src="images/notebook-3d-32192-341.jpg"/>
+<img src="images/notebook-3d-32192-341.jpg" align="center"/>
 
 
 # Social Networks
