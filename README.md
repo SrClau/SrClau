@@ -7,7 +7,7 @@
 
 <hr />
 
-<img align="right" src="images/coding_clau.png" alt="CodingForClau" width="210" height="180" />
+<img align="right" src="images/coding_clau.png" alt="CodingForClau" width="230" height="180" />
 
 <p>
 - Test Text
