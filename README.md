@@ -1,7 +1,9 @@
 # Hi👋, I'm Claudio
-<img src="images/notebook-3d-32192-341.jpg"/>
+<br />
 
-# Web Developer & Game Developer
+## Web Developer & Game Developer
+
+<img src="images/notebook-3d-32192-341.jpg"/>
 
 <!-- - 💤 Always Tired
 
