@@ -1,4 +1,4 @@
-# Hi, I'm Clau👋
+# Hi👋, I'm Claudio
 
 ## Web Developer & Game Developer
 
