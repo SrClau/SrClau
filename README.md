@@ -17,7 +17,7 @@
 </i>
 </p>
 
-<img align="center" src="images/coding_clau.png" alt="CodingForClau" width="100" height="50" />
+<img align="right" src="images/coding_clau.png" alt="CodingForClau" width="100" height="50" />
 
 <hr />
 
