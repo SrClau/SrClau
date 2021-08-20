@@ -3,7 +3,7 @@
 
 <h2 align="center">Web Developer & Game Developer</h2>
 
-<img align="center" src="images/20210820_164010.jpg" alt="PC-Notebook" width="580" height="180 />
+<img align="center" src="images/20210820_164010.jpg" alt="PC-Notebook" width="480" height="180" />
 
 <hr />
 
