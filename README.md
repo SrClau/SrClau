@@ -1,4 +1,4 @@
-# Hi👋, I'm Claudio
+<h1 align="center">Hi👋, I'm Claudio</h1>
 <br />
 
 ## Web Developer & Game Developer
