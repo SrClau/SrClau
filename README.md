@@ -8,12 +8,12 @@
 <hr />
 
 <p>
-- Text from Test
+- Test Text
 <br/>
-- Text from Test
+- Test Text
 <br/>
 <i>
-- Text from Test 
+- Test Text
 </i>
 </p>
 
