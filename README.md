@@ -18,7 +18,7 @@
 
 <h3 align="left">Social Networks</h3>
 <p align="left">
-<a href="https://twitter.com/SrClau4"><img src="images/twitter.png" width="50" height="38" /></a>
+<a href="https://twitter.com/SrClau4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srclau4" height="30" width="40" /></a>
 <a href="https://discord.com/SrClau4"><img src="images/Discord-Logo.png" width="55" height="30" /></a>
 <a href="https://youtube.com/c/SrClau"><img src="images/youtube.png" width="45" height="30" /></a>
 </p>
