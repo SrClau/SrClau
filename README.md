@@ -11,12 +11,17 @@
 <br/>
 - Text from Test
 <br/>
+<i>
 - Text from Test 
+</i>
 </p>
 
 <h3 align="left">Social Networks</h3>
-<a href="twitter.com/SrClau4"><img src="images/twitter.png" /></a>
-<a href="twitter.com/SrClau4"><img src="images/Discord-Logo.png" width="40" height="30" /></a>
+<p align="left">
+<a href="https://twitter.com/SrClau4"><img src="images/twitter.png" width="50" height="30" /></a>
+<a href="https://discord.com/SrClau4"><img src="images/Discord-Logo.png" width="50" height="30" /></a>
+</p>
+
 <!-- - 💤 Always Tired
 
 - 😩 I’m currently working on **NoobyMC**
