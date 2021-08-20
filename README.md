@@ -17,6 +17,8 @@
 </i>
 </p>
 
+<img align="center" src="images/coding_clau.png" alt="CodingForClau" width="100" height="50" />
+
 <hr />
 
 <h3 align="left">Social Networks</h3>
