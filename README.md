@@ -4,8 +4,15 @@
 <h2 align="center">Web Developer & Game Developer</h2>
 
 <img src="images/notebook-3d-32192-341.jpg" align="center"/>
+<hr />
 
-
+<p>
+- Text from Test
+<br/>
+- Text from Test
+<br/>
+- Text from Test 
+</p>
 # Social Networks
 <a href="twitter.com/SrClau4"><img src="images/twitter.png" /></a>
 <a href="twitter.com/SrClau4"><img src="images/discord.png" /></a>
