@@ -5,6 +5,10 @@
 
 <img src="images/notebook-3d-32192-341.jpg"/>
 
+
+# Social Networks
+<a href="twitter.com/SrClau4"><img src="images/twitter.png" /></a>
+<a href="twitter.com/SrClau4"><img src="images/discord.png" /></a>
 <!-- - 💤 Always Tired
 
 - 😩 I’m currently working on **NoobyMC**
